@@ -53,7 +53,16 @@ body {
   transform: rotate(-45deg);
   transition: all 0.5s ease;
   opacity: 0;
+  pointer-events: none;
 }
+
+@media (hover: none) {
+  .card:hover {
+    transform: none;
+    box-shadow: none;
+  }
+}
+
 
 .card:hover {
   transform: scale(1.05);
