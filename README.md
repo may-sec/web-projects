@@ -30,10 +30,10 @@ A collection of modern React applications demonstrating best practices, advanced
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/may-sec/web-projects.git
 
 # Navigate to the project directory
-cd your-repo-name
+cd web-projects
 
 # Install dependencies
 npm install
