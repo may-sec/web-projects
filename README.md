@@ -1,8 +1,42 @@
-# React + Vite
+# 🚀 React Projects Showcase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A collection of modern React applications demonstrating best practices, advanced hooks, routing, and state management techniques.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Projects Included
+
+### 🖼️ Gallery App
+**API-Driven React Application**
+
+---
+
+### 📝 Blog Website
+**React Router v6 Multi-Page Application**
+
+---
+
+### 🛒 Shopping Cart App
+**Advanced State Management in React**
+
+---
+
+### 🎬 Movie Listing App
+**Advanced API Handling with React Query**
+
+---
+
+## 📂 Project Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+
+# Navigate to the project directory
+cd your-repo-name
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
