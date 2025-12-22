@@ -21,18 +21,18 @@ const project = [
     post: "React Router v6 Multi-Page Application",
     link: "https://blog-website-eight-rosy-16.vercel.app/",
     text: "Developed a multi-page blog website using React Router v6+, implementing nested routes, dynamic route parameters, protected routes with authentication guards, 404 error handling, and performance optimization using lazy loading and React Suspense."
-  },
-  {
-    projectName: "Shopping Cart App",
-    post: "Advanced State Management in React",
-    link: "https://shopping-cart-app-rose-mu.vercel.app/",
-    text: "Developed a shopping cart application implementing useReducer for complex state logic, created custom hooks for reusable functionality, evaluated state management approaches including props drilling, Context API, and Redux, and explored modern state libraries such as Zustand and Jotai."
-  },
-  {
-    projectName: "Movie Listing App",
-    post: "Advanced API Handling with React Query",
-    link: "https://movie-listing-app-rho.vercel.app/",
-    text: "Built a movie listing application using the TMDB API and React Query to manage server state, implementing data caching, automatic refetching, infinite queries for pagination, and robust error handling with retry mechanisms."
+  // },
+  // {
+  //   projectName: "Shopping Cart App",
+  //   post: "Advanced State Management in React",
+  //   link: "https://shopping-cart-app-rose-mu.vercel.app/",
+  //   text: "Developed a shopping cart application implementing useReducer for complex state logic, created custom hooks for reusable functionality, evaluated state management approaches including props drilling, Context API, and Redux, and explored modern state libraries such as Zustand and Jotai."
+  // },
+  // {
+  //   projectName: "Movie Listing App",
+  //   post: "Advanced API Handling with React Query",
+  //   link: "https://movie-listing-app-rho.vercel.app/",
+  //   text: "Built a movie listing application using the TMDB API and React Query to manage server state, implementing data caching, automatic refetching, infinite queries for pagination, and robust error handling with retry mechanisms."
   // },
   // {
   //   projectName: "Weather App",
