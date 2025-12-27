@@ -5,8 +5,8 @@ const App = () => {
 
 const project = [
   {
-    projectName: "Todo Advanced App",
-    post: "Full-Stack Todo Application with React & MongoDB",
+    projectName: "Todo Adv. App",
+    post: "Full-Stack Application with React & MongoDB",
     link: "https://github.com/may-sec/todo-advanced-app",
     text: "Built a full-stack todo management application using React for the frontend and Express with MongoDB for the backend. Implemented CRUD operations, schema validation with Zod, RESTful APIs, and state management for rendering and updating todos. Focused on clean architecture, backend validation, and seamless frontend–backend integration."
   },
