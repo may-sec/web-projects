@@ -5,10 +5,10 @@ const App = () => {
 
 const project = [
   {
-    projectName: "Notes App",
-    post: "Forms, Inputs & Two-Way Binding in React",
-    link: "https://notes-app-five-pearl.vercel.app/",
-    text: "Built a notes management application focusing on controlled and uncontrolled form inputs, implemented two-way data binding, utilized useRef for uncontrolled fields, designed multi-step forms, and added undo functionality to manage user input effectively."
+    projectName: "Todo Advanced App",
+    post: "Full-Stack Todo Application with React & MongoDB",
+    link: "https://github.com/may-sec/todo-advanced-app",
+    text: "Built a full-stack todo management application using React for the frontend and Express with MongoDB for the backend. Implemented CRUD operations, schema validation with Zod, RESTful APIs, and state management for rendering and updating todos. Focused on clean architecture, backend validation, and seamless frontend–backend integration."
   },
   {
     projectName: "Gallery App",
@@ -21,6 +21,12 @@ const project = [
     post: "React Router v6 Multi-Page Application",
     link: "https://blog-website-eight-rosy-16.vercel.app/",
     text: "Developed a multi-page blog website using React Router v6+, implementing nested routes, dynamic route parameters, protected routes with authentication guards, 404 error handling, and performance optimization using lazy loading and React Suspense."
+  },
+  {
+    projectName: "Notes App",
+    post: "Forms, Inputs & Two-Way Binding in React",
+    link: "https://notes-app-five-pearl.vercel.app/",
+    text: "Built a notes management application focusing on controlled and uncontrolled form inputs, implemented two-way data binding, utilized useRef for uncontrolled fields, designed multi-step forms, and added undo functionality to manage user input effectively."
   // },
   // {
   //   projectName: "Shopping Cart App",
