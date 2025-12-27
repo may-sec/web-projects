@@ -6,6 +6,11 @@ A collection of modern React applications demonstrating best practices, advanced
 
 ## 📌 Projects Included
 
+### Todo Advanced App
+**A simple full-stack Todo application built with React, Express, MongoDB, Zod, and Mongoose**
+
+---
+
 ### 🖼️ Gallery App
 **API-Driven React Application**
 
