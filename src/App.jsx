@@ -12,19 +12,19 @@ const project = [
   },
   {
     projectName: "Gallery App",
-    post: "API-Driven React Application",
+    post: "🛠 React · REST APIs · Hooks",
     link: "https://may-gallery-app.vercel.app/",
     text: "Built a React web application that fetches and displays gallery data from external APIs. Implemented useEffect to manage side effects, handled dependency arrays for controlled re-renders, used cleanup functions for timers and event listeners, and applied best practices for asynchronous operations within React Hooks."
   },
   {
     projectName: "Blog Website",
-    post: "React Router v6 Multi-Page Application",
+    post: "🛠 React Router v6 Multi-Page Application",
     link: "https://may-blog-website.vercel.app/",
     text: "Developed a multi-page blog website using React Router v6+, implementing nested routes, dynamic route parameters, protected routes with authentication guards, 404 error handling, and performance optimization using lazy loading and React Suspense."
   },
   {
     projectName: "Notes App",
-    post: "Forms, Inputs & Two-Way Binding in React",
+    post: "🛠 React Hooks · Forms · UX",
     link: "https://may-notes-app.vercel.app/",
     text: "Built a notes management application focusing on controlled and uncontrolled form inputs, implemented two-way data binding, utilized useRef for uncontrolled fields, designed multi-step forms, and added undo functionality to manage user input effectively."
   // },
