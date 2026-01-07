@@ -5,27 +5,27 @@ const App = () => {
 
 const project = [
   {
-    projectName: "Todo Adv. App",
-    post: "Full-Stack Application with React & MongoDB",
-    link: "https://github.com/may-sec/todo-advanced-app",
-    text: "Built a full-stack todo management application using React for the frontend and Express with MongoDB for the backend. Implemented CRUD operations, schema validation with Zod, RESTful APIs, and state management for rendering and updating todos. Focused on clean architecture, backend validation, and seamless frontend–backend integration."
+    projectName: "Todo Complete",
+    post: "🛠 React · Node.js · Express · MongoDB",
+    link: "https://may-todo-complete.vercel.app/",
+    text: "Full-stack Todo application with RESTful APIs. CRUD functionality with secure JWT authentication. Schema validation using Zod and database modeling with Mongoose. API integration using Axios. CORS configuration and version control with Git & GitHub"
   },
   {
     projectName: "Gallery App",
     post: "API-Driven React Application",
-    link: "https://gallery-app-nine-eta.vercel.app/",
+    link: "https://may-gallery-app.vercel.app/",
     text: "Built a React web application that fetches and displays gallery data from external APIs. Implemented useEffect to manage side effects, handled dependency arrays for controlled re-renders, used cleanup functions for timers and event listeners, and applied best practices for asynchronous operations within React Hooks."
   },
   {
     projectName: "Blog Website",
     post: "React Router v6 Multi-Page Application",
-    link: "https://blog-website-eight-rosy-16.vercel.app/",
+    link: "https://may-blog-website.vercel.app/",
     text: "Developed a multi-page blog website using React Router v6+, implementing nested routes, dynamic route parameters, protected routes with authentication guards, 404 error handling, and performance optimization using lazy loading and React Suspense."
   },
   {
     projectName: "Notes App",
     post: "Forms, Inputs & Two-Way Binding in React",
-    link: "https://notes-app-five-pearl.vercel.app/",
+    link: "https://may-notes-app.vercel.app/",
     text: "Built a notes management application focusing on controlled and uncontrolled form inputs, implemented two-way data binding, utilized useRef for uncontrolled fields, designed multi-step forms, and added undo functionality to manage user input effectively."
   // },
   // {
