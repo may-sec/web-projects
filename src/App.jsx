@@ -5,6 +5,12 @@ const App = () => {
 
 const project = [
   {
+    projectName: "Paytm",
+    post: "🛠 React.js · Node.js · Express.js · MongoDB · Tailwind CSS",
+    link: "https://may-paytm.vercel.app/",
+    text: "Architected and developed a secure payment transfer system handling user authentication, real-time balance updates, and transaction management. Implemented transactions using MongoDB sessions to prevent balance inconsistencies during concurrent transfers. Designed authentication system using JWT with middleware-based route protection and session management."
+  },
+  {
     projectName: "Todo Complete",
     post: "🛠 React · Node.js · Express · MongoDB",
     link: "https://may-todo-complete.vercel.app/",
@@ -27,12 +33,6 @@ const project = [
     post: "🛠 React Hooks · Forms · UX",
     link: "https://may-notes-app.vercel.app/",
     text: "Built a notes management application focusing on controlled and uncontrolled form inputs, implemented two-way data binding, utilized useRef for uncontrolled fields, designed multi-step forms, and added undo functionality to manage user input effectively."
-  // },
-  // {
-  //   projectName: "Shopping Cart App",
-  //   post: "Advanced State Management in React",
-  //   link: "https://shopping-cart-app-rose-mu.vercel.app/",
-  //   text: "Developed a shopping cart application implementing useReducer for complex state logic, created custom hooks for reusable functionality, evaluated state management approaches including props drilling, Context API, and Redux, and explored modern state libraries such as Zustand and Jotai."
   // },
   // {
   //   projectName: "Movie Listing App",
