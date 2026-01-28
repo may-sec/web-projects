@@ -5,9 +5,15 @@ const App = () => {
 
 const project = [
   {
+    projectName: "Pipeline Builder",
+    post: "🛠 React.js · Tailwind CSS",
+    link: "https://may-paytm.vercel.app/",
+    text: "•	Architected and developed a visual node-based pipeline builder, enabling users to create complex workflows through an intuitive interface. Designed declarative configuration system reducing new node creation time from 30+ minutes to under 2 minutes. Implemented variable detection parser recognizing `{{variableName}}` syntax with real-time validation."
+  },
+  {
     projectName: "Paytm",
     post: "🛠 React.js · Node.js · Express.js · MongoDB · Tailwind CSS",
-    link: "https://may-paytm.vercel.app/",
+    link: "https://may-pipeline-builder.vercel.app/",
     text: "Architected and developed a secure payment transfer system handling user authentication, real-time balance updates, and transaction management. Implemented transactions using MongoDB sessions to prevent balance inconsistencies during concurrent transfers. Designed authentication system using JWT with middleware-based route protection and session management."
   },
   {
